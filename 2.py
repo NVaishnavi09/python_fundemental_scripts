@@ -1,0 +1,6 @@
+people=int(input("enter no.of people in room= "))
+total=int(people*(people-1)/2)
+print(total)
+print(people<<5)
+print(people>>1)
+print(people|total)
